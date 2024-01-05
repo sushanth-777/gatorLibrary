@@ -40,16 +40,16 @@ Compile the C++ code:
 
 ### Usage
 
-##Adding a book:
+Adding a book:
   InsertBook(BookID, BookName, Author, Availability)
 
-##Removing a book:
+Removing a book:
   DeleteBook(BookID)
   
-##Borrowing a book:
+Borrowing a book:
   BorrowBook(BookID, PatronID, Priority)
 
-##Viewing books:
+Viewing books:
   PrintBooks(BookID1, BookID2)
   
 
